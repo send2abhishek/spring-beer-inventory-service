@@ -1,6 +1,9 @@
 ######################
 # Project Specific
 ######################
+
+HELP.md
+target/
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
