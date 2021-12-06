@@ -62,6 +62,8 @@ local.properties
 *.ids
 *.orig
 
+target/
+
 ######################
 # Visual Studio Code
 ######################
